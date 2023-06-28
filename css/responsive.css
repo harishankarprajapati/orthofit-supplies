@@ -152,7 +152,7 @@
     }
 
     /* about */
-    .head-sec-bgg2 {
+    .head-sec-bgg2 , .head-sec-bgg3 {
         padding: 30px 0px 30px 0px;
         margin-top: -10px !important;
     }
