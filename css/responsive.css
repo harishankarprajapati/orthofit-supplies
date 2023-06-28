@@ -43,47 +43,65 @@
         color: #000;
         font-size: 30px;
     }
-    .owl-prev , .owl-next {
+
+    .owl-prev,
+    .owl-next {
         display: none !important;
     }
-    .owl-dots{
+
+    .owl-dots {
         display: block !important;
     }
+
     .sec-wee-p {
         font-size: 18px;
         line-height: 30px;
         padding-bottom: 30px;
     }
+
     .sec-cn-btn {
         color: #FFF;
         font-size: 18px;
         padding: 15px 30px;
         margin-bottom: 20px;
     }
-    .sec-cust-bgg::after , .sec-cudt-h::before{
+
+    .sec-cust-bgg::after,
+    .sec-cudt-h::before {
         display: none;
     }
+
     .sec-cust-bgg {
         padding: 0px 0px 0px 0px;
         margin: 0px 0px 0px 0px;
     }
-    .sec-cudt-h, .sec-why-h , .sec-gal-h {
+
+    .sec-cudt-h,
+    .sec-why-h,
+    .sec-gal-h {
         font-size: 30px;
     }
-    .sec-cudt-p , .secpro-p {
+
+    .sec-cudt-p,
+    .secpro-p {
         font-size: 18px;
     }
+
     .sec-col-col-w {
         width: 100%;
         margin: auto;
     }
-    .secmarg-box-1 , .secmarg-box-2 {
+
+    .secmarg-box-1,
+    .secmarg-box-2 {
         margin-top: 0px;
         padding: 0px;
     }
+
     .sec-gallery-paddi {
-        padding:20px 0px;
+        padding: 20px 0px;
     }
+
     .sec-sub-bg {
         margin-bottom: 0px;
         margin-top: 0px;
@@ -91,17 +109,21 @@
         background-image: none;
         padding: 40px 20px;
     }
+
     .sec-sub-h {
         font-size: 23px;
     }
+
     .sec-min-btn {
         margin-left: 0px;
         margin-top: 7px;
         text-align: center;
     }
+
     .sec-sub-p {
         font-size: 16px;
     }
+
     #subsid input {
         height: 50px;
         border-radius: 60px;
@@ -109,18 +131,51 @@
         background: #FFF;
         box-shadow: 10px 20px 50px 0px rgba(0, 0, 0, 0.15);
     }
+
     .sec-sub-btn {
         padding: 14px 25px;
     }
-    #subsid ::placeholder{
+
+    #subsid ::placeholder {
         font-size: 14px !important;
     }
-    .sec-foot-socac , .sec-foot-our-h , .sec-copy-p{
+
+    .sec-foot-socac,
+    .sec-foot-our-h,
+    .sec-copy-p {
         padding: 20px 0px !important;
     }
+
     a.nav-link.sec-li-small2 {
         border-bottom: 1px solid #cfcfcf;
         padding: 10px 10px !important;
     }
-    
+
+    /* about */
+    .head-sec-bgg2 {
+        padding: 25px 0px 25px 0px;
+        margin-top: -10px !important;
+    }
+
+    .sec-aboy-padd {
+        padding: 30px 0px;
+    }
+
+    .sec-solu-h {
+        font-size: 20px;
+    }
+
+    .sec-solu-p {
+        font-size: 16px;
+    }
+
+    .sec-all-box-bgg {
+        height: auto;
+        margin-bottom: 20px;
+    }
+
+    .sec--ord-p {
+        font-size: 18px;
+        padding: 20px 0px;
+    }
 }
